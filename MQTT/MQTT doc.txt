@@ -1,0 +1,9 @@
+For library description:
+https://pypi.org/project/paho-mqtt/#description
+
+For implementation i have used below link but it does not cover authentication:
+https://tutorials-raspberrypi.com/raspberry-pi-mqtt-broker-client-wireless-communication/
+
+
+This i have not used but seems good:
+https://techtutorialsx.com/2017/04/23/python-subscribing-to-mqtt-topic/

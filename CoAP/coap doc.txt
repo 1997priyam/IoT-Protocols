@@ -1,0 +1,1 @@
+Install the CoAPthon library from github on rpi and run the client.py on laptop and server.py on Rpi or vice versa.
