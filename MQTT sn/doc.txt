@@ -1,0 +1,19 @@
+Overview of MQTT-SN protocol
+http://www.steves-internet-guide.com/mqtt-sn/
+
+
+Installing and configuring the RSMB broker for MQTT-SN
+http://www.steves-internet-guide.com/mqtt-sn-rsmb-install/
+ 
+
+Run the following command to compile the broker: 
+cd rsmb/src
+make
+
+
+To start the broker run the command
+./broker_mqtts config_file
+
+
+Running the python client
+http://www.steves-internet-guide.com/python-mqttsn-client/
