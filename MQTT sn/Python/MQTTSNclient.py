@@ -199,7 +199,7 @@ class Client:
     return self.__receiver.receive()
 
 
-def publish(topic, payload, retained=False, port=1883, host="localhost"):
+def publish(topic, payload, retained=False, port=1884, host="192.168.137.150"):
   publish = MQTTSN.Publishes()
   publish.Flags.QoS = 3
   publish.Flags.Retain = retained  
@@ -258,7 +258,7 @@ if __name__ == "__main__":
 	"""
 
 
-	aclient = Client("linh", port=1884)
+	aclient = Client("priyam", port=1884)
 	aclient.registerCallback(Callback())
 	aclient.connect()
 
