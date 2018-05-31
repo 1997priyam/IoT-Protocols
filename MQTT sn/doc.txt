@@ -17,3 +17,4 @@ To start the broker run the command
 
 Running the python client
 http://www.steves-internet-guide.com/python-mqttsn-client/
+Run the client.py file inside Python folder to see the implementation
