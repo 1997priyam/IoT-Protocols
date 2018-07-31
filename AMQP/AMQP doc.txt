@@ -1,8 +1,0 @@
-https://www.rabbitmq.com/install-debian.html
-
-Follow official rabbitmq website for examples on python to be implemented on Rpi.
-
-RabbitMQ is a broker that works on AMQP protocol.
-
-SEND/RECEIVE EXAMPLE LINK FOR PYTHON ON Rpi:
-https://www.rabbitmq.com/tutorials/tutorial-one-python.html
