@@ -1,7 +1,0 @@
-For python library:
-Set the tls_set function with the correct parameters and import ssl at the top.
-Change the port to 8883 which supports TLS/SSL connections.
-
-For Arduino library:
-Add the port as 8883 in the begin function inside void setup() function and also 
-create the object from WiFiClientSecure class to connect to the wifi securely suing ssl.
